@@ -1,11 +1,13 @@
 # Change these first
 owner: for-memory # Your GitHub username
 repo: PT-Sites-Observer # Your Github repository name
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57
 
 # Add your sites here
 sites:
   - name: The most unstable tracker
     url: $M_TEAM
+    icon: $M_TEAM_ICO
   - name: U2
     url: $U2
   - name: HDC
@@ -22,7 +24,7 @@ status-website:
   baseUrl: /PT-Sites-Observer
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PT-Sites-Observer
-  introTitle: Check the current status China Private Tracker sites here!
+  introTitle: Check the status of China Private Tracker sites here!
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
