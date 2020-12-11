@@ -7,7 +7,7 @@ user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 sites:
   - name: The most unstable tracker
     url: $M_TEAM
-    icon: $M_TEAM_ICO
+    icon: https://raw.githubusercontent.com/for-memory/PT-Sites-Observer/gh-pages/mteam_favicon.png
   - name: U2
     url: $U2
   - name: HDC
