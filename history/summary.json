@@ -2,7 +2,7 @@
   {
     "name": "The most unstable tracker",
     "url": "$M_TEAM",
-    "icon": "$M_TEAM_ICO",
+    "icon": "https://raw.githubusercontent.com/for-memory/PT-Sites-Observer/gh-pages/mteam_favicon.png",
     "slug": "the-most-unstable-tracker",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1410,
-    "timeDay": 1410,
-    "timeWeek": 1410,
-    "timeMonth": 1410,
-    "timeYear": 1410,
+    "time": 1261,
+    "timeDay": 1261,
+    "timeWeek": 1261,
+    "timeMonth": 1261,
+    "timeYear": 1261,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2421,
-    "timeDay": 2421,
-    "timeWeek": 2421,
-    "timeMonth": 2421,
-    "timeYear": 2421,
+    "time": 1830,
+    "timeDay": 1830,
+    "timeWeek": 1830,
+    "timeMonth": 1830,
+    "timeYear": 1830,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   }
 ]
