@@ -22,19 +22,19 @@
     "url": "$U2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "u2",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1322,
-    "timeDay": 560,
-    "timeWeek": 1322,
-    "timeMonth": 1322,
-    "timeYear": 1322,
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
+    "time": 1222,
+    "timeDay": 614,
+    "timeWeek": 1222,
+    "timeMonth": 1222,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2020-12-12": 0
+      "2020-12-12": 38
     }
   },
   {
