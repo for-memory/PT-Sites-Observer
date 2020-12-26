@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ssd",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.67%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 291,
     "timeDay": 152,
     "timeWeek": 289,
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2020-12-26": 0,
+      "2020-12-26": 53,
       "2020-12-23": 18
     }
   }
