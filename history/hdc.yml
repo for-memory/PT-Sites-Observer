@@ -1,7 +1,7 @@
 url: $HDC
-status: down
-code: 521
-responseTime: 78
-lastUpdated: 2021-02-21T14:47:06.188Z
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2021-02-21T15:22:26.505Z
 startTime: Fri Dec 11 2020 09:06:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
