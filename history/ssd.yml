@@ -1,7 +1,7 @@
 url: $SSD
-status: up
-code: 200
-responseTime: 346
-lastUpdated: 2021-03-03T23:08:25.807Z
+status: down
+code: 502
+responseTime: 153
+lastUpdated: 2021-03-04T09:20:57.772Z
 startTime: Fri Dec 11 2020 09:06:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
