@@ -1,7 +1,7 @@
 url: $U2
-status: up
-code: 200
-responseTime: 729
-lastUpdated: 2021-03-07T12:30:44.901Z
+status: down
+code: 503
+responseTime: 335
+lastUpdated: 2021-03-07T14:49:14.544Z
 startTime: Fri Dec 11 2020 09:06:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
